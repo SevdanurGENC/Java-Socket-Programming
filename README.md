@@ -6,7 +6,7 @@ Socket programming is a way of connecting two nodes on a network to communicate 
 ![image](https://user-images.githubusercontent.com/5441882/130859245-f9218a68-ee5a-4700-a6c5-d85d8d94d0a9.png)
 
 ## Then the client.java file is run. The console screen on the left shows that the client is connected. The console screen on the right belongs to the server. 
-We send the string value entered by the client to the server. After the string value received by the server is converted to uppercase letters, it sends a response to the client.
+## We send the string value entered by the client to the server. After the string value received by the server is converted to uppercase letters, it sends a response to the client.
 
 
 ![image](https://user-images.githubusercontent.com/5441882/130859335-400f1430-654e-43b9-8d66-7cf251c6eae6.png)
