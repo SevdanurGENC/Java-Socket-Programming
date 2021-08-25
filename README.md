@@ -1,5 +1,7 @@
 # Java-Socket-Programming
-Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
+## Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) listens on a particular port at an IP, while other socket reaches out to the other to form a connection. Server forms the listener socket while client reaches out to the server.
+
+![image](https://user-images.githubusercontent.com/5441882/130860374-6177049a-1ed6-4730-809f-96e070dcf5db.png)
 
 ## First, the server.java file is run. The console screen shows that the server is connected.
 
